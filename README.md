@@ -7,4 +7,4 @@ JavaとSpring Bootにて制作したおみくじサイトJavafortuneの画像入
  
   
  # 苦労した点
- Javaのバージョン選択が大変でした。
+ herokuにデプロイする点も踏まえたため、Javaのバージョン選択が大変でした。
